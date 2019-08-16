@@ -1,2 +1,2 @@
 # MyApp
-This is a demo git tutorial.
+This is a git demo tutorial.
